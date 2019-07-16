@@ -16,7 +16,7 @@
 title: Zulvani Blog
 email: agotekom@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi fellow, welcome to my blog, I write technical stuff and for my daily working here, it is about
+  Hi fellow, welcome to my blog, I write technical stuff about my daily working here, it is arround
   Software Development, especially about Programming, Database, Algorithm, and Software Development Theory.
   Hope all stuff here can help you and fix your problem ;) 
 baseurl: "" # the subpath of your site, e.g. /blog
