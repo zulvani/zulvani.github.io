@@ -12,7 +12,6 @@ show_downloads: false
 # (lowercase, spaces become dashes, e.g. "## Short Biography" -> "#short-biography").
 description: >-
   Software Engineer | Digital Innovator
-  <a target="_blank" href="https://www.linkedin.com/in/aguszulvani/">LinkedIn</a>
   <a href="#projects">Projects</a>
   <a href="#awards">Awards</a>
   <a href="#education">Education</a>
