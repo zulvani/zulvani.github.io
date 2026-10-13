@@ -21,7 +21,7 @@ Agus Zulvani is a Software Engineer and Computer Vision enthusiast with over 10 
 
 ### On Going Personal Project
 
-- **ZDocSpider**: is an Open Source, modern, lightweight, self-hosted document indexing and semantic retrieval engine. It automatically spiders local PDF directories, extracts text and structural metadata, computes cryptographic checksums for deduplication, and indexes embeddings into an embedded sqlite-vec vector database for lightning-fast semantic and hybrid search. [Source Code] (https://github.com/zulvani/zdocspider)
+- **ZDocSpider**: is an Open Source, modern, lightweight, self-hosted document indexing and semantic retrieval engine. It automatically spiders local PDF directories, extracts text and structural metadata, computes cryptographic checksums for deduplication, and indexes embeddings into an embedded sqlite-vec vector database for lightning-fast semantic and hybrid search. [Source Code](https://github.com/zulvani/zdocspider)
 - **Low Code No Code Platform**: I'm researching (as my Computer Science Master Research at Universitas Gadjah Mada) and developing a Low Code No Code Platform. This project combines Computer Vision, LLM, and Software Engineering fields. You can explore the prototype [here](https://goota.id). **Please use a laptop or desktop computer to open this prototype.**
 
 
