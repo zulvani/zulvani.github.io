@@ -4,19 +4,14 @@ title: Short Biography
 
 <!--
   HOW TO MAINTAIN THIS FILE
-  - Name, photo and tagline in the sidebar come from _config.yml (title, description, logo).
-  - "## Heading"  = a main section. To add/remove a section: add/delete the block AND its line in the menu below.
+  - Name, photo, tagline and the menu under the photo come from _config.yml (title, description, logo, menu).
+  - "## Heading"  = a main section. To add/remove a section: add/delete the block here AND its entry under "menu:" in _config.yml.
   - "### Heading" = a sub-section inside a section.
   - One "- " bullet = one item (award, talk, degree, project). Copy a line to add one, delete a line to remove it.
   - Keep newest items first in each list.
 -->
 
 [Instagram](https://instagram.com/agzulvani) · [LinkedIn](https://www.linkedin.com/in/aguszulvani/)
-
-- [Projects](#projects)
-- [Awards](#awards)
-- [Education](#education)
-- [Speaking](#speaking)
 
 ## Short Biography
 
@@ -50,7 +45,7 @@ Agus Zulvani is a Software Engineer and Computer Vision enthusiast with over 10 
 
 <!--
   OPTIONAL SECTION TEMPLATE
-  Uncomment, edit, and add "- [Contact](#contact)" to the menu at the top.
+  Uncomment, edit, and add a Contact entry (url: "#contact") under "menu:" in _config.yml.
 
 ## Contact
 
