@@ -4,8 +4,8 @@ title: Short Biography
 
 <!--
   HOW TO MAINTAIN THIS FILE
-  - Name, photo, tagline and the menu under the photo come from _config.yml (title, description, logo, menu).
-  - "## Heading"  = a main section. To add/remove a section: add/delete the block here AND its entry under "menu:" in _config.yml.
+  - Name, photo, tagline and the menu under the photo come from _config.yml (title, logo, description).
+  - "## Heading"  = a main section. To add/remove a section: add/delete the block here AND its <a> line in the "description:" menu in _config.yml.
   - "### Heading" = a sub-section inside a section.
   - One "- " bullet = one item (award, talk, degree, project). Copy a line to add one, delete a line to remove it.
   - Keep newest items first in each list.
@@ -45,7 +45,7 @@ Agus Zulvani is a Software Engineer and Computer Vision enthusiast with over 10 
 
 <!--
   OPTIONAL SECTION TEMPLATE
-  Uncomment, edit, and add a Contact entry (url: "#contact") under "menu:" in _config.yml.
+  Uncomment, edit, and add a Contact entry (url: "#contact") in the "description:" menu in _config.yml.
 
 ## Contact
 

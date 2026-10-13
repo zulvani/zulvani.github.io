@@ -3,19 +3,17 @@
 theme: jekyll-theme-minimal
 
 title: Agus Zulvani
-description: Software Engineer | Digital Innovator
 logo: /assets/zulvani.jpg
 show_downloads: false
 
-# Menu shown under the profile photo (sidebar).
-# Add / remove / reorder entries here. "url" must match a "## Heading" in index.md
+# Text shown under the profile photo: tagline + menu.
+# MENU: one <a> line per link. Add / remove / reorder lines freely.
+# Each href must match a "## Heading" in index.md
 # (lowercase, spaces become dashes, e.g. "## Short Biography" -> "#short-biography").
-menu:
-  - title: Projects
-    url: "#projects"
-  - title: Awards
-    url: "#awards"
-  - title: Education
-    url: "#education"
-  - title: Speaking
-    url: "#speaking"
+description: >-
+  Software Engineer | Digital Innovator
+  <br><br>
+  <a href="#projects">Projects</a><br>
+  <a href="#awards">Awards</a><br>
+  <a href="#education">Education</a><br>
+  <a href="#speaking">Speaking</a>
